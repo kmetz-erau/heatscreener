@@ -144,13 +144,3 @@ Possible interventions include shade structures, tree planting, cool pavement, s
 - Satellite observations may not capture nighttime heat, short-duration heat events, or shaded pedestrian conditions.
 - Results should be validated with campus operations staff and field measurements.
 
-## Recommended next steps
-
-For a stronger assessment, add:
-
-1. Campus occupancy or pedestrian-count data.
-2. Tree-canopy, shade, and impervious-surface layers.
-3. Building HVAC and cooling-access information.
-4. Local air-temperature and humidity observations.
-5. Outdoor-route, athletic-field, and transit-stop locations.
-6. Field verification at the highest-ranked locations.
